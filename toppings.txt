@@ -1,0 +1,11 @@
+Rice-210
+Guacamole-110
+Cream-60
+Lettuce-120
+Pico-25
+Salsa-30
+Fajitas-20
+Chips-540
+Cheese-110
+Beans-130
+Corn-120

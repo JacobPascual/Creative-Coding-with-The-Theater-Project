@@ -1,0 +1,11 @@
+rice.png 
+guac.png
+sourcream.png 
+lettuce.png
+pico.png
+redsauce.png
+fajita.png
+chips.png
+cheese.png
+beans.png
+corn.png

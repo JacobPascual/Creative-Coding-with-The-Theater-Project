@@ -1,0 +1,5 @@
+Chicken-180/10.50
+Steak-150/12.25
+Carnitas-210/11.25
+Barbacoa-170/12.25
+Sofritas-150/10.50
